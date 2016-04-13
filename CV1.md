@@ -59,4 +59,4 @@ Xi’an University of Finance and Economics Second-Class Scholarship for 3 times
 [http://yanggeng85.github.io/third-repo/presentation.html](http://yanggeng85.github.io/third-repo/presentation.html)
  
 ### Links
-https://github.com/yanggeng85/third-assignment/blob/master/Numerical-assignment-3.ipynb
+https://github.com/yanggeng85/third-assignment/blob/master/Numerical-Assignment.ipynb
